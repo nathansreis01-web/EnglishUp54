@@ -1,0 +1,12 @@
+EnglishUp TURBO MAX — ATUALIZACAO ANDROID
+
+1. No GitHub, abra seu repositorio EnglishUp.
+2. Envie o CONTEUDO extraido deste ZIP (incluindo a pasta app e .github), substituindo os arquivos existentes.
+3. Se o GitHub pedir, confirme sobrescrever arquivos de mesmo nome.
+4. Abra Actions > Android CI e aguarde a execucao verde.
+5. Abra a execucao e baixe o artefato EnglishUp-Turbo-Max-APK.
+6. Extraia app-debug.apk e transfira para o celular.
+7. IMPORTANTE: como o GitHub usa uma assinatura debug nova, talvez precise desinstalar a versao anterior antes de instalar esta. Isso APAGA o progresso antigo.
+
+Conteudo: 193 itens em vocabulario, verbos, conversacao e interpretacao, pratica com voz, TTS e provas a cada 10 licoes.
+Limites: nao ensina todos os verbos do idioma, nao tem IA conversacional, nao avalia pronuncia fonema por fonema. Nao foi possivel testar APK neste ambiente.

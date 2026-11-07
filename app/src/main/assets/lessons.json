@@ -1,0 +1,6250 @@
+[
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Hello",
+    "pt": "Olá",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Good morning",
+    "pt": "Bom dia",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Good afternoon",
+    "pt": "Boa tarde",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Good evening",
+    "pt": "Boa noite (ao chegar)",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Good night",
+    "pt": "Boa noite (ao se despedir)",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Please",
+    "pt": "Por favor",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Thank you",
+    "pt": "Obrigado",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "You are welcome",
+    "pt": "De nada",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Excuse me",
+    "pt": "Com licença",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cumprimentos",
+    "en": "Sorry",
+    "pt": "Desculpe",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Friend",
+    "pt": "Amigo",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Family",
+    "pt": "Família",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Mother",
+    "pt": "Mãe",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Father",
+    "pt": "Pai",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Brother",
+    "pt": "Irmão",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Sister",
+    "pt": "Irmã",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Teacher",
+    "pt": "Professor",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Student",
+    "pt": "Estudante",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Customer",
+    "pt": "Cliente",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas",
+    "en": "Neighbor",
+    "pt": "Vizinho",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Water",
+    "pt": "Água",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Bread",
+    "pt": "Pão",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Rice",
+    "pt": "Arroz",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Chicken",
+    "pt": "Frango",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Beef",
+    "pt": "Carne bovina",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Fish",
+    "pt": "Peixe",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Egg",
+    "pt": "Ovo",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Milk",
+    "pt": "Leite",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Fruit",
+    "pt": "Fruta",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Comida",
+    "en": "Vegetables",
+    "pt": "Vegetais",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Restaurant",
+    "pt": "Restaurante",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "School",
+    "pt": "Escola",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Hospital",
+    "pt": "Hospital",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Store",
+    "pt": "Loja",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Airport",
+    "pt": "Aeroporto",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Station",
+    "pt": "Estação",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Bathroom",
+    "pt": "Banheiro",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Street",
+    "pt": "Rua",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Home",
+    "pt": "Casa",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Lugares",
+    "en": "Work",
+    "pt": "Trabalho",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Today",
+    "pt": "Hoje",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Tomorrow",
+    "pt": "Amanhã",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Yesterday",
+    "pt": "Ontem",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Morning",
+    "pt": "Manhã",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Afternoon",
+    "pt": "Tarde",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Evening",
+    "pt": "Noite",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Week",
+    "pt": "Semana",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Month",
+    "pt": "Mês",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Year",
+    "pt": "Ano",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo",
+    "en": "Now",
+    "pt": "Agora",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Good",
+    "pt": "Bom",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Bad",
+    "pt": "Ruim",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Big",
+    "pt": "Grande",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Small",
+    "pt": "Pequeno",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Easy",
+    "pt": "Fácil",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Difficult",
+    "pt": "Difícil",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Happy",
+    "pt": "Feliz",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Tired",
+    "pt": "Cansado",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Hungry",
+    "pt": "Com fome",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Adjetivos",
+    "en": "Thirsty",
+    "pt": "Com sede",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Price",
+    "pt": "Preço",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Money",
+    "pt": "Dinheiro",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Cash",
+    "pt": "Dinheiro em espécie",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Card",
+    "pt": "Cartão",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Receipt",
+    "pt": "Recibo",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Cheap",
+    "pt": "Barato",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Expensive",
+    "pt": "Caro",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Size",
+    "pt": "Tamanho",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Change",
+    "pt": "Troco",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras",
+    "en": "Discount",
+    "pt": "Desconto",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Ticket",
+    "pt": "Passagem",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Passport",
+    "pt": "Passaporte",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Luggage",
+    "pt": "Bagagem",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Flight",
+    "pt": "Voo",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Hotel",
+    "pt": "Hotel",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Reservation",
+    "pt": "Reserva",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Map",
+    "pt": "Mapa",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Bus",
+    "pt": "Ônibus",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Train",
+    "pt": "Trem",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagem",
+    "en": "Taxi",
+    "pt": "Táxi",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Phone",
+    "pt": "Telefone",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Computer",
+    "pt": "Computador",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Book",
+    "pt": "Livro",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Table",
+    "pt": "Mesa",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Chair",
+    "pt": "Cadeira",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Door",
+    "pt": "Porta",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Window",
+    "pt": "Janela",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Key",
+    "pt": "Chave",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Clothes",
+    "pt": "Roupas",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Cotidiano",
+    "en": "Shoes",
+    "pt": "Sapatos",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "be",
+    "pt": "ser / estar",
+    "tip": "Passado: was/were • Particípio: been",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "have",
+    "pt": "ter",
+    "tip": "Passado: had • Particípio: had",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "do",
+    "pt": "fazer",
+    "tip": "Passado: did • Particípio: done",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "go",
+    "pt": "ir",
+    "tip": "Passado: went • Particípio: gone",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "get",
+    "pt": "obter / pegar",
+    "tip": "Passado: got • Particípio: got/gotten",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "make",
+    "pt": "fazer / criar",
+    "tip": "Passado: made • Particípio: made",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "take",
+    "pt": "pegar / levar",
+    "tip": "Passado: took • Particípio: taken",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "come",
+    "pt": "vir",
+    "tip": "Passado: came • Particípio: come",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "see",
+    "pt": "ver",
+    "tip": "Passado: saw • Particípio: seen",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "know",
+    "pt": "saber / conhecer",
+    "tip": "Passado: knew • Particípio: known",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "think",
+    "pt": "pensar",
+    "tip": "Passado: thought • Particípio: thought",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "say",
+    "pt": "dizer",
+    "tip": "Passado: said • Particípio: said",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "tell",
+    "pt": "contar / dizer",
+    "tip": "Passado: told • Particípio: told",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "give",
+    "pt": "dar",
+    "tip": "Passado: gave • Particípio: given",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "find",
+    "pt": "encontrar",
+    "tip": "Passado: found • Particípio: found",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "feel",
+    "pt": "sentir",
+    "tip": "Passado: felt • Particípio: felt",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "leave",
+    "pt": "sair / deixar",
+    "tip": "Passado: left • Particípio: left",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "put",
+    "pt": "colocar",
+    "tip": "Passado: put • Particípio: put",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "bring",
+    "pt": "trazer",
+    "tip": "Passado: brought • Particípio: brought",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "buy",
+    "pt": "comprar",
+    "tip": "Passado: bought • Particípio: bought",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "eat",
+    "pt": "comer",
+    "tip": "Passado: ate • Particípio: eaten",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "drink",
+    "pt": "beber",
+    "tip": "Passado: drank • Particípio: drunk",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "speak",
+    "pt": "falar",
+    "tip": "Passado: spoke • Particípio: spoken",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "write",
+    "pt": "escrever",
+    "tip": "Passado: wrote • Particípio: written",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "read",
+    "pt": "ler",
+    "tip": "Passado: read • Particípio: read",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "run",
+    "pt": "correr",
+    "tip": "Passado: ran • Particípio: run",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "sleep",
+    "pt": "dormir",
+    "tip": "Passado: slept • Particípio: slept",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "meet",
+    "pt": "encontrar alguém",
+    "tip": "Passado: met • Particípio: met",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "pay",
+    "pt": "pagar",
+    "tip": "Passado: paid • Particípio: paid",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "understand",
+    "pt": "entender",
+    "tip": "Passado: understood • Particípio: understood",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "work",
+    "pt": "trabalhar",
+    "tip": "Passado: worked • Particípio: worked",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "study",
+    "pt": "estudar",
+    "tip": "Passado: studied • Particípio: studied",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "play",
+    "pt": "jogar / brincar",
+    "tip": "Passado: played • Particípio: played",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "want",
+    "pt": "querer",
+    "tip": "Passado: wanted • Particípio: wanted",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "need",
+    "pt": "precisar",
+    "tip": "Passado: needed • Particípio: needed",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "like",
+    "pt": "gostar",
+    "tip": "Passado: liked • Particípio: liked",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "live",
+    "pt": "morar / viver",
+    "tip": "Passado: lived • Particípio: lived",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "call",
+    "pt": "ligar / chamar",
+    "tip": "Passado: called • Particípio: called",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "help",
+    "pt": "ajudar",
+    "tip": "Passado: helped • Particípio: helped",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "learn",
+    "pt": "aprender",
+    "tip": "Passado: learned • Particípio: learned",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I work every day.",
+    "pt": "Eu trabalho todos os dias.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "She works every day.",
+    "pt": "Ela trabalha todos os dias.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "Do you speak English?",
+    "pt": "Você fala inglês?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "He does not like coffee.",
+    "pt": "Ele não gosta de café.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I am studying now.",
+    "pt": "Estou estudando agora.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "They are eating dinner.",
+    "pt": "Eles estão jantando.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I went to school yesterday.",
+    "pt": "Eu fui à escola ontem.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "She bought a book.",
+    "pt": "Ela comprou um livro.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "Did you eat breakfast?",
+    "pt": "Você tomou café da manhã?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I did not understand.",
+    "pt": "Eu não entendi.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I will study tomorrow.",
+    "pt": "Vou estudar amanhã.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "Will you help me?",
+    "pt": "Você vai me ajudar?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I am going to travel.",
+    "pt": "Eu vou viajar.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "We are going to eat.",
+    "pt": "Nós vamos comer.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I have finished my homework.",
+    "pt": "Eu terminei minha lição de casa.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I have never been there.",
+    "pt": "Eu nunca estive lá.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "If it rains, I will stay home.",
+    "pt": "Se chover, vou ficar em casa.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I would like some water.",
+    "pt": "Eu gostaria de um pouco de água.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "I used to play soccer.",
+    "pt": "Eu costumava jogar futebol.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Tempos verbais",
+    "en": "You should practice every day.",
+    "pt": "Você deveria praticar todos os dias.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "A table for two, please.",
+    "pt": "Uma mesa para dois, por favor.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "Can I see the menu?",
+    "pt": "Posso ver o cardápio?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "I would like chicken and rice.",
+    "pt": "Eu gostaria de frango e arroz.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "No onions, please.",
+    "pt": "Sem cebola, por favor.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "Could I have some water?",
+    "pt": "Poderia me trazer água?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "Is this spicy?",
+    "pt": "Isto é apimentado?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "I am allergic to peanuts.",
+    "pt": "Sou alérgico a amendoim.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Restaurante",
+    "en": "Could I have the bill, please?",
+    "pt": "Pode trazer a conta, por favor?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "What is your name?",
+    "pt": "Qual é seu nome?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "My name is Alex.",
+    "pt": "Meu nome é Alex.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "Where are you from?",
+    "pt": "De onde você é?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "I am from Brazil.",
+    "pt": "Sou do Brasil.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "What do you do?",
+    "pt": "O que você faz?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "I am a student.",
+    "pt": "Sou estudante.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "Nice to meet you.",
+    "pt": "Prazer em conhecer você.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Conhecer pessoas",
+    "en": "What do you like to do?",
+    "pt": "O que você gosta de fazer?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Compras",
+    "en": "How much does it cost?",
+    "pt": "Quanto custa?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Compras",
+    "en": "Do you have a smaller size?",
+    "pt": "Você tem um tamanho menor?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Compras",
+    "en": "Can I pay by card?",
+    "pt": "Posso pagar com cartão?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Compras",
+    "en": "I am just looking, thanks.",
+    "pt": "Estou só olhando, obrigado.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Compras",
+    "en": "Where can I find this?",
+    "pt": "Onde posso encontrar isto?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Viagem",
+    "en": "Where is the airport?",
+    "pt": "Onde fica o aeroporto?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Viagem",
+    "en": "I have a reservation.",
+    "pt": "Tenho uma reserva.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Viagem",
+    "en": "What time does the bus leave?",
+    "pt": "A que horas o ônibus sai?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Viagem",
+    "en": "Can you help me?",
+    "pt": "Você pode me ajudar?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Viagem",
+    "en": "I am lost.",
+    "pt": "Estou perdido.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Cotidiano",
+    "en": "Could you repeat that, please?",
+    "pt": "Pode repetir, por favor?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Cotidiano",
+    "en": "Please speak more slowly.",
+    "pt": "Fale mais devagar, por favor.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Cotidiano",
+    "en": "I do not understand.",
+    "pt": "Eu não entendo.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Cotidiano",
+    "en": "How do you say this in English?",
+    "pt": "Como se diz isto em inglês?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Cotidiano",
+    "en": "I am learning English.",
+    "pt": "Estou aprendendo inglês.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Frases simples",
+    "en": "The girl is reading a book.",
+    "pt": "A menina está lendo um livro.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Frases simples",
+    "en": "My brother works at a hospital.",
+    "pt": "Meu irmão trabalha em um hospital.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Frases simples",
+    "en": "We need to leave early.",
+    "pt": "Precisamos sair cedo.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Frases simples",
+    "en": "The restaurant opens at noon.",
+    "pt": "O restaurante abre ao meio-dia.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Passado e futuro",
+    "en": "Yesterday I bought food for my family.",
+    "pt": "Ontem comprei comida para minha família.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Passado e futuro",
+    "en": "Next week I will visit my friend.",
+    "pt": "Na semana que vem visitarei meu amigo.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Passado e futuro",
+    "en": "She did not go because she was tired.",
+    "pt": "Ela não foi porque estava cansada.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Passado e futuro",
+    "en": "If I have time, I will call you.",
+    "pt": "Se eu tiver tempo, vou ligar para você.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Contexto",
+    "en": "Although it was raining, we went outside.",
+    "pt": "Embora estivesse chovendo, saímos.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Contexto",
+    "en": "I have been waiting for an hour.",
+    "pt": "Estou esperando há uma hora.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Contexto",
+    "en": "Could you tell me where the station is?",
+    "pt": "Você poderia me dizer onde fica a estação?",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Interpretação",
+    "level": "Contexto",
+    "en": "He has already finished his work.",
+    "pt": "Ele já terminou o trabalho.",
+    "tip": "",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Kitchen",
+    "pt": "Cozinha",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Bedroom",
+    "pt": "Quarto",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Bed",
+    "pt": "Cama",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Sofa",
+    "pt": "Sofá",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Mirror",
+    "pt": "Espelho",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Lamp",
+    "pt": "Lâmpada",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Towel",
+    "pt": "Toalha",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Soap",
+    "pt": "Sabonete",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Shower",
+    "pt": "Chuveiro",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Refrigerator",
+    "pt": "Geladeira",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Stove",
+    "pt": "Fogão",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Plate",
+    "pt": "Prato",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Fork",
+    "pt": "Garfo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Spoon",
+    "pt": "Colher",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Casa e objetos",
+    "en": "Knife",
+    "pt": "Faca",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Menu",
+    "pt": "Cardápio",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Waiter",
+    "pt": "Garçom",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Waitress",
+    "pt": "Garçonete",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Bill",
+    "pt": "Conta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Tip",
+    "pt": "Gorjeta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Order",
+    "pt": "Pedido",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Breakfast",
+    "pt": "Café da manhã",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Lunch",
+    "pt": "Almoço",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Dinner",
+    "pt": "Jantar",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Cheese",
+    "pt": "Queijo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Juice",
+    "pt": "Suco",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Salt",
+    "pt": "Sal",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Pepper",
+    "pt": "Pimenta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Restaurante",
+    "en": "Delicious",
+    "pt": "Delicioso",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Avenue",
+    "pt": "Avenida",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Subway",
+    "pt": "Metrô",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Traffic",
+    "pt": "Trânsito",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Bridge",
+    "pt": "Ponte",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Pharmacy",
+    "pt": "Farmácia",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Bank",
+    "pt": "Banco",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Park",
+    "pt": "Parque",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Transporte e cidade",
+    "en": "Library",
+    "pt": "Biblioteca",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Job",
+    "pt": "Emprego",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Office",
+    "pt": "Escritório",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Meeting",
+    "pt": "Reunião",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Manager",
+    "pt": "Gerente",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Coworker",
+    "pt": "Colega de trabalho",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Salary",
+    "pt": "Salário",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Schedule",
+    "pt": "Horário",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Interview",
+    "pt": "Entrevista",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Resume",
+    "pt": "Currículo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Keyboard",
+    "pt": "Teclado",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Screen",
+    "pt": "Tela",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Email",
+    "pt": "E-mail",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Homework",
+    "pt": "Lição de casa",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Question",
+    "pt": "Pergunta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho e estudos",
+    "en": "Answer",
+    "pt": "Resposta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Sad",
+    "pt": "Triste",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Angry",
+    "pt": "Bravo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Excited",
+    "pt": "Animado",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Worried",
+    "pt": "Preocupado",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Calm",
+    "pt": "Calmo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Kind",
+    "pt": "Gentil",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Honest",
+    "pt": "Honesto",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Brave",
+    "pt": "Corajoso",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Shy",
+    "pt": "Tímido",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Proud",
+    "pt": "Orgulhoso",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Pessoas e sentimentos",
+    "en": "Lonely",
+    "pt": "Solitário",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Head",
+    "pt": "Cabeça",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Hair",
+    "pt": "Cabelo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Eye",
+    "pt": "Olho",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Ear",
+    "pt": "Orelha",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Nose",
+    "pt": "Nariz",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Mouth",
+    "pt": "Boca",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Hand",
+    "pt": "Mão",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Arm",
+    "pt": "Braço",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Leg",
+    "pt": "Perna",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Foot",
+    "pt": "Pé",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Back",
+    "pt": "Costas",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Heart",
+    "pt": "Coração",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Pain",
+    "pt": "Dor",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Medicine",
+    "pt": "Remédio",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Doctor",
+    "pt": "Médico",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Nurse",
+    "pt": "Enfermeiro",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Healthy",
+    "pt": "Saudável",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Sick",
+    "pt": "Doente",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Strong",
+    "pt": "Forte",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Saúde e corpo",
+    "en": "Weak",
+    "pt": "Fraco",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Credit card",
+    "pt": "Cartão de crédito",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Shirt",
+    "pt": "Camisa",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Pants",
+    "pt": "Calças",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Jacket",
+    "pt": "Jaqueta",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Wallet",
+    "pt": "Carteira",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Payment",
+    "pt": "Pagamento",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Market",
+    "pt": "Mercado",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Sale",
+    "pt": "Promoção",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Compras e dinheiro",
+    "en": "Bag",
+    "pt": "Sacola",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Early",
+    "pt": "Cedo",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Late",
+    "pt": "Tarde / atrasado",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Always",
+    "pt": "Sempre",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Never",
+    "pt": "Nunca",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Sometimes",
+    "pt": "Às vezes",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Usually",
+    "pt": "Geralmente",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Often",
+    "pt": "Frequentemente",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Soon",
+    "pt": "Em breve",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "Before",
+    "pt": "Antes",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Tempo e rotina",
+    "en": "After",
+    "pt": "Depois",
+    "tip": "Use esta palavra em uma frase do seu dia a dia.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "boarding pass",
+    "pt": "cartão de embarque",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "gate",
+    "pt": "portão de embarque",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "departure",
+    "pt": "partida",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "arrival",
+    "pt": "chegada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "layover",
+    "pt": "conexão entre voos",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "carry-on",
+    "pt": "bagagem de mão",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "checked baggage",
+    "pt": "bagagem despachada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "aisle seat",
+    "pt": "assento no corredor",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "window seat",
+    "pt": "assento na janela",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "seat belt",
+    "pt": "cinto de segurança",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "flight attendant",
+    "pt": "comissário de bordo",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "customs",
+    "pt": "alfândega",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "immigration",
+    "pt": "imigração",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "passport control",
+    "pt": "controle de passaportes",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "visa",
+    "pt": "visto",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "itinerary",
+    "pt": "roteiro de viagem",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "destination",
+    "pt": "destino",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "round trip",
+    "pt": "viagem de ida e volta",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "one-way ticket",
+    "pt": "passagem só de ida",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "fare",
+    "pt": "tarifa",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "delay",
+    "pt": "atraso",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "cancelation",
+    "pt": "cancelamento",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "refund request",
+    "pt": "pedido de reembolso",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "lost luggage",
+    "pt": "bagagem extraviada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "claim tag",
+    "pt": "etiqueta de bagagem",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "terminal",
+    "pt": "terminal",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "shuttle",
+    "pt": "transporte de traslado",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "car rental",
+    "pt": "aluguel de carro",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "insurance coverage",
+    "pt": "cobertura do seguro",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "hotel lobby",
+    "pt": "saguão do hotel",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "front desk",
+    "pt": "recepção",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "check-in",
+    "pt": "entrada no hotel",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "check-out",
+    "pt": "saída do hotel",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "room key",
+    "pt": "chave do quarto",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "housekeeping",
+    "pt": "serviço de limpeza do hotel",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "vacancy",
+    "pt": "quarto disponível",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "fully booked",
+    "pt": "sem vagas",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "single room",
+    "pt": "quarto individual",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "double room",
+    "pt": "quarto duplo",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "amenities",
+    "pt": "comodidades",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "complimentary breakfast",
+    "pt": "café da manhã incluído",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "travel adapter",
+    "pt": "adaptador de tomada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "currency exchange",
+    "pt": "câmbio de moedas",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "exchange rate",
+    "pt": "taxa de câmbio",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "cash withdrawal",
+    "pt": "saque de dinheiro",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "ATM",
+    "pt": "caixa eletrônico",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "public transit",
+    "pt": "transporte público",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "subway station",
+    "pt": "estação de metrô",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "platform",
+    "pt": "plataforma de embarque",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "transfer",
+    "pt": "baldeação",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "fare card",
+    "pt": "cartão de transporte",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "route",
+    "pt": "trajeto",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "detour",
+    "pt": "desvio",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "traffic jam",
+    "pt": "congestionamento",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "pedestrian crossing",
+    "pt": "faixa de pedestres",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "intersection",
+    "pt": "cruzamento",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "sidewalk",
+    "pt": "calçada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "landmark",
+    "pt": "ponto de referência",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "directions",
+    "pt": "orientações de caminho",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "tourist attraction",
+    "pt": "atração turística",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "guided tour",
+    "pt": "visita guiada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "admission fee",
+    "pt": "taxa de entrada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "opening hours",
+    "pt": "horário de funcionamento",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "travel document",
+    "pt": "documento de viagem",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "emergency exit",
+    "pt": "saída de emergência",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "embassy",
+    "pt": "embaixada",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "consulate",
+    "pt": "consulado",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "medical assistance",
+    "pt": "assistência médica",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "travel insurance",
+    "pt": "seguro viagem",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "jet lag",
+    "pt": "cansaço de fuso horário",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "time zone",
+    "pt": "fuso horário",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "local time",
+    "pt": "horário local",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "boarding time",
+    "pt": "horário de embarque",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "security screening",
+    "pt": "inspeção de segurança",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "prohibited item",
+    "pt": "item proibido",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "overhead bin",
+    "pt": "compartimento superior",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "connecting flight",
+    "pt": "voo de conexão",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "flight number",
+    "pt": "número do voo",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Viagens",
+    "en": "estimated arrival",
+    "pt": "chegada prevista",
+    "tip": "Use esta expressão em uma situação real de viagens.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "shift",
+    "pt": "turno de trabalho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "paycheck",
+    "pt": "pagamento salarial",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "payroll",
+    "pt": "folha de pagamento",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "hourly wage",
+    "pt": "pagamento por hora",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "overtime",
+    "pt": "hora extra",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "deadline",
+    "pt": "prazo final",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "workload",
+    "pt": "carga de trabalho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "supervisor",
+    "pt": "supervisor",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "employee",
+    "pt": "funcionário",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "employer",
+    "pt": "empregador",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "job opening",
+    "pt": "vaga de emprego",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "job interview",
+    "pt": "entrevista de emprego",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "cover letter",
+    "pt": "carta de apresentação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "reference",
+    "pt": "referência profissional",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "qualification",
+    "pt": "qualificação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "training",
+    "pt": "treinamento",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "onboarding",
+    "pt": "integração de novo funcionário",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "probation period",
+    "pt": "período de experiência",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "promotion",
+    "pt": "promoção",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "performance review",
+    "pt": "avaliação de desempenho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "feedback",
+    "pt": "retorno sobre desempenho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "task",
+    "pt": "tarefa",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "assignment",
+    "pt": "atividade designada",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "priority",
+    "pt": "prioridade",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "schedule change",
+    "pt": "mudança de horário",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "time off",
+    "pt": "folga",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "paid leave",
+    "pt": "licença remunerada",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "sick leave",
+    "pt": "afastamento por doença",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "benefits",
+    "pt": "benefícios",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "health insurance",
+    "pt": "plano de saúde",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "retirement plan",
+    "pt": "plano de aposentadoria",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "meeting agenda",
+    "pt": "pauta de reunião",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "minutes",
+    "pt": "ata de reunião",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "presentation",
+    "pt": "apresentação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "spreadsheet",
+    "pt": "planilha",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "inventory",
+    "pt": "estoque",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "stockroom",
+    "pt": "depósito de estoque",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "warehouse",
+    "pt": "armazém",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "shipment",
+    "pt": "remessa",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "delivery",
+    "pt": "entrega",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "purchase order",
+    "pt": "pedido de compra",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "invoice",
+    "pt": "fatura",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "vendor",
+    "pt": "fornecedor",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "client",
+    "pt": "cliente contratante",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "customer service",
+    "pt": "atendimento ao cliente",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "complaint",
+    "pt": "reclamação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "return policy",
+    "pt": "política de devolução",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "refund",
+    "pt": "reembolso",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "estimate",
+    "pt": "orçamento estimado",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "quote",
+    "pt": "cotação de preço",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "contract",
+    "pt": "contrato",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "agreement",
+    "pt": "acordo",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "signature",
+    "pt": "assinatura",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "approval",
+    "pt": "aprovação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "request",
+    "pt": "solicitação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "procedure",
+    "pt": "procedimento",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "guideline",
+    "pt": "diretriz",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "policy",
+    "pt": "política interna",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "compliance",
+    "pt": "conformidade com regras",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "safety equipment",
+    "pt": "equipamento de segurança",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "protective gloves",
+    "pt": "luvas de proteção",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "hard hat",
+    "pt": "capacete de segurança",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "maintenance",
+    "pt": "manutenção",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "repair",
+    "pt": "reparo",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "inspection",
+    "pt": "inspeção",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "hazard",
+    "pt": "risco ou perigo",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "incident report",
+    "pt": "relatório de incidente",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "equipment failure",
+    "pt": "falha de equipamento",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "replacement part",
+    "pt": "peça de reposição",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "workstation",
+    "pt": "posto de trabalho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "break room",
+    "pt": "sala de descanso",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "clock in",
+    "pt": "registrar entrada no trabalho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "clock out",
+    "pt": "registrar saída do trabalho",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "teamwork",
+    "pt": "trabalho em equipe",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "reliable",
+    "pt": "confiável",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "accountable",
+    "pt": "responsável pelos próprios atos",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "efficient",
+    "pt": "eficiente",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "productive",
+    "pt": "produtivo",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "accurate",
+    "pt": "preciso",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "available",
+    "pt": "disponível",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "unavailable",
+    "pt": "indisponível",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "follow up",
+    "pt": "acompanhar uma solicitação",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "hand over",
+    "pt": "passar uma tarefa adiante",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Trabalho",
+    "en": "escalate",
+    "pt": "encaminhar a um superior",
+    "tip": "Use esta expressão em uma situação real de trabalho.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "campus",
+    "pt": "campus universitário",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "lecture",
+    "pt": "aula expositiva",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "seminar",
+    "pt": "seminário",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "workshop",
+    "pt": "oficina prática",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "syllabus",
+    "pt": "plano de ensino",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "curriculum",
+    "pt": "currículo acadêmico",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "coursework",
+    "pt": "atividades do curso",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "essay",
+    "pt": "redação acadêmica",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "research paper",
+    "pt": "artigo de pesquisa",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "thesis",
+    "pt": "tese",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "dissertation",
+    "pt": "dissertação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "abstract",
+    "pt": "resumo acadêmico",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "citation",
+    "pt": "citação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "reference list",
+    "pt": "lista de referências",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "plagiarism",
+    "pt": "plágio",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "peer review",
+    "pt": "revisão por pares",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "hypothesis",
+    "pt": "hipótese",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "methodology",
+    "pt": "metodologia",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "experiment",
+    "pt": "experimento",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "sample",
+    "pt": "amostra",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "survey",
+    "pt": "pesquisa por questionário",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "data analysis",
+    "pt": "análise de dados",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "findings",
+    "pt": "resultados encontrados",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "conclusion",
+    "pt": "conclusão",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "evidence",
+    "pt": "evidência",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "source",
+    "pt": "fonte de informação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "reliable source",
+    "pt": "fonte confiável",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "argument",
+    "pt": "argumento",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "rationale",
+    "pt": "justificativa",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "critical thinking",
+    "pt": "pensamento crítico",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "academic integrity",
+    "pt": "integridade acadêmica",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "scholarship",
+    "pt": "bolsa de estudos",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "tuition",
+    "pt": "mensalidade universitária",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "financial aid",
+    "pt": "auxílio financeiro",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "student loan",
+    "pt": "empréstimo estudantil",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "enrollment",
+    "pt": "matrícula",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "admission",
+    "pt": "admissão",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "application",
+    "pt": "inscrição",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "transcript",
+    "pt": "histórico escolar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "grade",
+    "pt": "nota",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "grade point average",
+    "pt": "média de notas",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "credit hours",
+    "pt": "créditos acadêmicos",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "prerequisite",
+    "pt": "pré-requisito",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "elective",
+    "pt": "disciplina optativa",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "major",
+    "pt": "área principal de graduação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "minor",
+    "pt": "área secundária de graduação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "undergraduate",
+    "pt": "estudante de graduação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "graduate student",
+    "pt": "estudante de pós-graduação",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "faculty",
+    "pt": "corpo docente",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "professor",
+    "pt": "professor universitário",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "teaching assistant",
+    "pt": "assistente de ensino",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "office hours",
+    "pt": "horário de atendimento do professor",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "library card",
+    "pt": "carteirinha da biblioteca",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "borrow",
+    "pt": "pegar emprestado",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "renew",
+    "pt": "renovar empréstimo",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "overdue book",
+    "pt": "livro com devolução atrasada",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "study group",
+    "pt": "grupo de estudos",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "deadline extension",
+    "pt": "prorrogação de prazo",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "submit",
+    "pt": "entregar ou enviar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "revise",
+    "pt": "revisar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "draft",
+    "pt": "rascunho",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "outline",
+    "pt": "esboço estruturado",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "proofread",
+    "pt": "revisar erros de escrita",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "paraphrase",
+    "pt": "parafrasear",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "summarize",
+    "pt": "resumir",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "compare",
+    "pt": "comparar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "contrast",
+    "pt": "contrastar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "evaluate",
+    "pt": "avaliar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "analyze",
+    "pt": "analisar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "interpret",
+    "pt": "interpretar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "demonstrate",
+    "pt": "demonstrar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "justify",
+    "pt": "justificar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "define",
+    "pt": "definir",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "identify",
+    "pt": "identificar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "discuss",
+    "pt": "discutir",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "present",
+    "pt": "apresentar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "participate",
+    "pt": "participar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "collaborate",
+    "pt": "colaborar",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "contribute",
+    "pt": "contribuir",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "attendance",
+    "pt": "frequência às aulas",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "absence",
+    "pt": "falta à aula",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "semester",
+    "pt": "semestre",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "term",
+    "pt": "período letivo",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "graduation",
+    "pt": "formatura",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "internship",
+    "pt": "estágio",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "laboratory",
+    "pt": "laboratório",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Acadêmico",
+    "en": "fieldwork",
+    "pt": "pesquisa de campo",
+    "tip": "Use esta expressão em uma situação real de acadêmico.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "actually",
+    "pt": "na verdade",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "although",
+    "pt": "embora",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "however",
+    "pt": "entretanto",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "therefore",
+    "pt": "portanto",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "otherwise",
+    "pt": "caso contrário",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "unless",
+    "pt": "a menos que",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "instead",
+    "pt": "em vez disso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "besides",
+    "pt": "além disso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "especially",
+    "pt": "especialmente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "probably",
+    "pt": "provavelmente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "definitely",
+    "pt": "definitivamente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "perhaps",
+    "pt": "talvez",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "rarely",
+    "pt": "raramente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "almost",
+    "pt": "quase",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "already",
+    "pt": "já",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "still",
+    "pt": "ainda",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "yet",
+    "pt": "ainda ou já em perguntas",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "recently",
+    "pt": "recentemente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "eventually",
+    "pt": "por fim",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "immediately",
+    "pt": "imediatamente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "currently",
+    "pt": "atualmente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "previously",
+    "pt": "anteriormente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "meanwhile",
+    "pt": "enquanto isso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "whenever",
+    "pt": "sempre que",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "wherever",
+    "pt": "onde quer que",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "whatever",
+    "pt": "o que quer que",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "whoever",
+    "pt": "quem quer que",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "either",
+    "pt": "um dos dois",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "neither",
+    "pt": "nenhum dos dois",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "both",
+    "pt": "ambos",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "each",
+    "pt": "cada",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "every",
+    "pt": "todo ou cada",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "several",
+    "pt": "vários",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "enough",
+    "pt": "suficiente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "plenty",
+    "pt": "bastante",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "fewer",
+    "pt": "menos em quantidade contável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "less",
+    "pt": "menos em quantidade não contável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "moreover",
+    "pt": "além do mais",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "despite",
+    "pt": "apesar de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "throughout",
+    "pt": "ao longo de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "within",
+    "pt": "dentro de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "without",
+    "pt": "sem",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "beyond",
+    "pt": "além de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "between",
+    "pt": "entre dois",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "among",
+    "pt": "entre vários",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "against",
+    "pt": "contra",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "toward",
+    "pt": "em direção a",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "through",
+    "pt": "através de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "across",
+    "pt": "atravessando",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "along",
+    "pt": "ao longo de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "nearby",
+    "pt": "nas proximidades",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "affordable",
+    "pt": "financeiramente acessível",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "convenient",
+    "pt": "conveniente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "comfortable",
+    "pt": "confortável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "crowded",
+    "pt": "lotado",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "quiet",
+    "pt": "silencioso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "noisy",
+    "pt": "barulhento",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "safe",
+    "pt": "seguro",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "dangerous",
+    "pt": "perigoso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "necessary",
+    "pt": "necessário",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "optional",
+    "pt": "opcional",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "urgent",
+    "pt": "urgente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "common",
+    "pt": "comum",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "unusual",
+    "pt": "incomum",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "similar",
+    "pt": "semelhante",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "different",
+    "pt": "diferente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "possible",
+    "pt": "possível",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "likely",
+    "pt": "provável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "unlikely",
+    "pt": "improvável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "reasonable",
+    "pt": "razoável",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "fair",
+    "pt": "justo",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "polite",
+    "pt": "educado",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "rude",
+    "pt": "grosseiro",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "patient",
+    "pt": "paciente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "confident",
+    "pt": "confiante",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "nervous",
+    "pt": "nervoso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "relieved",
+    "pt": "aliviado",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "disappointed",
+    "pt": "decepcionado",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "exhausted",
+    "pt": "exausto",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "available now",
+    "pt": "disponível agora",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "out of stock",
+    "pt": "fora de estoque",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "in advance",
+    "pt": "com antecedência",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "on time",
+    "pt": "pontualmente",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "in time",
+    "pt": "a tempo",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "by the way",
+    "pt": "a propósito",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "as soon as possible",
+    "pt": "assim que possível",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "in case",
+    "pt": "caso aconteça",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "make sure",
+    "pt": "certificar-se",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "figure out",
+    "pt": "descobrir ou entender",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "find out",
+    "pt": "descobrir",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "look for",
+    "pt": "procurar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "look after",
+    "pt": "cuidar de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "get along",
+    "pt": "dar-se bem",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "get used to",
+    "pt": "acostumar-se a",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "run out of",
+    "pt": "ficar sem",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "pick up",
+    "pt": "buscar ou pegar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "drop off",
+    "pt": "deixar alguém ou algo",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "fill out",
+    "pt": "preencher",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "turn down",
+    "pt": "recusar ou abaixar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "turn up",
+    "pt": "aparecer ou aumentar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "set up",
+    "pt": "configurar ou montar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "check out",
+    "pt": "conferir ou finalizar saída",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "sign up",
+    "pt": "inscrever-se",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "log in",
+    "pt": "entrar na conta",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "log out",
+    "pt": "sair da conta",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "keep track of",
+    "pt": "acompanhar registros",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "take care of",
+    "pt": "cuidar de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "deal with",
+    "pt": "lidar com",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "depend on",
+    "pt": "depender de",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "agree with",
+    "pt": "concordar com",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "apply for",
+    "pt": "candidatar-se a",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "pay attention",
+    "pt": "prestar atenção",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "take a break",
+    "pt": "fazer uma pausa",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "make a decision",
+    "pt": "tomar uma decisão",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "make an appointment",
+    "pt": "marcar um horário",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "take responsibility",
+    "pt": "assumir responsabilidade",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "ask for help",
+    "pt": "pedir ajuda",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "give directions",
+    "pt": "dar orientações",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "get a refund",
+    "pt": "receber reembolso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "keep in touch",
+    "pt": "manter contato",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "reach out",
+    "pt": "entrar em contato",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "come across",
+    "pt": "encontrar por acaso",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "bring up",
+    "pt": "mencionar um assunto",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "carry out",
+    "pt": "executar uma tarefa",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "put off",
+    "pt": "adiar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "catch up",
+    "pt": "colocar assuntos em dia",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "get back to",
+    "pt": "retornar contato",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "work out",
+    "pt": "dar certo ou exercitar-se",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "sort out",
+    "pt": "resolver ou organizar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "take over",
+    "pt": "assumir controle",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "come up with",
+    "pt": "ter uma ideia",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "point out",
+    "pt": "apontar algo",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "show up",
+    "pt": "comparecer",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "hang out",
+    "pt": "passar tempo junto",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Vocabulário",
+    "level": "Essencial",
+    "en": "break down",
+    "pt": "quebrar ou parar de funcionar",
+    "tip": "Use esta expressão em uma situação real de essencial.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Where is the departure gate?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I need to check in for my flight.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you help me find my luggage?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Is this seat available?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "What time does boarding start?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "My flight has been delayed.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I would like to make a reservation.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could I have the bill, please?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "How do I get to the train station?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I need to change my booking.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Is breakfast included?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you recommend a nearby restaurant?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I have experience in customer service.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you explain the task?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I will send the report by Friday.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "We need to meet the deadline.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you clarify the instructions?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I am available for the morning shift.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Let me check the inventory.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "The shipment has been delayed.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I need to speak with my supervisor.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Can we reschedule the meeting?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I would like to apply for this position.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I have completed the assignment.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I need to submit my assignment.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you explain this concept?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Where can I find the syllabus?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I would like to join the study group.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "When is the final exam?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could I borrow this textbook?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I need to cite my sources.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "The lecture starts at nine.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I have a question about the research.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "Could you review my draft?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "What are the admission requirements?",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Conversação",
+    "level": "Situações reais",
+    "en": "I am preparing a presentation.",
+    "pt": "Pratique a frase em inglês com o microfone.",
+    "tip": "Repita com clareza e ritmo natural.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "ask",
+    "pt": "perguntar / pedir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "try",
+    "pt": "tentar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "keep",
+    "pt": "manter",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "let",
+    "pt": "deixar / permitir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "begin",
+    "pt": "começar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "seem",
+    "pt": "parecer",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "show",
+    "pt": "mostrar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "hear",
+    "pt": "ouvir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "move",
+    "pt": "mover",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "believe",
+    "pt": "acreditar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "happen",
+    "pt": "acontecer",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "provide",
+    "pt": "fornecer",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "sit",
+    "pt": "sentar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "stand",
+    "pt": "ficar em pé",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "lose",
+    "pt": "perder",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "include",
+    "pt": "incluir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "continue",
+    "pt": "continuar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "set",
+    "pt": "definir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "change",
+    "pt": "mudar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "lead",
+    "pt": "liderar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Essencial"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "book a flight",
+    "pt": "reservar um voo",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "check in",
+    "pt": "fazer check-in",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "board",
+    "pt": "embarcar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "depart",
+    "pt": "partir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "arrive",
+    "pt": "chegar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "cancel",
+    "pt": "cancelar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "delay",
+    "pt": "atrasar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "reserve",
+    "pt": "reservar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "pack",
+    "pt": "arrumar a mala",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "unpack",
+    "pt": "desfazer a mala",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "explore",
+    "pt": "explorar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "exchange currency",
+    "pt": "trocar moeda",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "navigate",
+    "pt": "orientar-se",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "confirm a reservation",
+    "pt": "confirmar uma reserva",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "miss a connection",
+    "pt": "perder uma conexão",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Viagens"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "apply for a job",
+    "pt": "candidatar-se a uma vaga",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "hire",
+    "pt": "contratar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "train",
+    "pt": "treinar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "schedule",
+    "pt": "agendar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "reschedule",
+    "pt": "remarcar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "submit a report",
+    "pt": "entregar um relatório",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "attend a meeting",
+    "pt": "participar de uma reunião",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "negotiate",
+    "pt": "negociar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "manage",
+    "pt": "gerenciar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "delegate",
+    "pt": "delegar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "approve",
+    "pt": "aprovar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "report an issue",
+    "pt": "relatar um problema",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "follow up",
+    "pt": "acompanhar / dar seguimento",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "clock in",
+    "pt": "registrar entrada",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "clock out",
+    "pt": "registrar saída",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Trabalho"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "enroll",
+    "pt": "matricular-se",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "graduate",
+    "pt": "formar-se",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "research",
+    "pt": "pesquisar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "analyze",
+    "pt": "analisar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "summarize",
+    "pt": "resumir",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "cite",
+    "pt": "citar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "reference",
+    "pt": "referenciar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "revise",
+    "pt": "revisar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "proofread",
+    "pt": "revisar texto",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "present",
+    "pt": "apresentar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "participate",
+    "pt": "participar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "debate",
+    "pt": "debater",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "compare",
+    "pt": "comparar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "evaluate",
+    "pt": "avaliar",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  },
+  {
+    "category": "Verbos",
+    "level": "Verbos essenciais",
+    "en": "submit an assignment",
+    "pt": "entregar uma tarefa",
+    "tip": "Observe o contexto e pratique com uma frase completa.",
+    "track": "Acadêmico"
+  }
+]

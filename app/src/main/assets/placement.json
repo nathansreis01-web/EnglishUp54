@@ -1,0 +1,98 @@
+{
+  "vocab": [
+    [
+      "receipt",
+      "Recibo de compra"
+    ],
+    [
+      "appointment",
+      "Compromisso agendado"
+    ],
+    [
+      "neighborhood",
+      "Bairro"
+    ],
+    [
+      "refund",
+      "Reembolso"
+    ],
+    [
+      "landlord",
+      "Proprietário do imóvel alugado"
+    ],
+    [
+      "commute",
+      "Trajeto habitual ao trabalho"
+    ],
+    [
+      "overdue",
+      "Em atraso"
+    ],
+    [
+      "affordable",
+      "Acessível financeiramente"
+    ],
+    [
+      "eligible",
+      "Elegível"
+    ],
+    [
+      "schedule",
+      "Cronograma ou agenda"
+    ]
+  ],
+  "interpret": [
+    [
+      "Why did James miss his bus?",
+      "He woke up late."
+    ],
+    [
+      "How did James get to work?",
+      "By taxi."
+    ],
+    [
+      "What happened to the meeting?",
+      "It was moved to the afternoon."
+    ],
+    [
+      "Why did Maya want a receipt?",
+      "To track her expenses."
+    ],
+    [
+      "How did Maya pay?",
+      "With a debit card."
+    ],
+    [
+      "When did Maya go shopping?",
+      "After work."
+    ],
+    [
+      "What did the receptionist ask Daniel to bring?",
+      "His insurance card."
+    ],
+    [
+      "Why did Daniel leave home early?",
+      "To arrive on time."
+    ],
+    [
+      "What did Daniel do at the clinic?",
+      "He filled out a form."
+    ],
+    [
+      "What was not included in the rent?",
+      "Utilities."
+    ]
+  ],
+  "speech": [
+    "Hello, how are you?",
+    "I would like some water.",
+    "Where is the restaurant?",
+    "I am learning English.",
+    "Could you help me, please?",
+    "I went to school yesterday.",
+    "I will see you tomorrow.",
+    "She likes to read books.",
+    "Can I have the menu, please?",
+    "Thank you very much."
+  ]
+}

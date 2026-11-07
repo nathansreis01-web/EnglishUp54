@@ -1,0 +1,282 @@
+[
+  {
+    "title": "A Busy Morning",
+    "passage": "James recently moved to Chicago. Yesterday morning, he missed his bus because he woke up late. He took a taxi, but traffic was terrible. When he arrived at work, his manager said the meeting had been postponed until the afternoon.",
+    "questions": [
+      [
+        "Why did James miss his bus?",
+        "He woke up late.",
+        "The bus broke down.",
+        "He woke up late.",
+        "He lost his wallet."
+      ],
+      [
+        "How did James get to work?",
+        "By taxi.",
+        "By bicycle.",
+        "On foot.",
+        "By taxi."
+      ],
+      [
+        "What happened to the meeting?",
+        "It was moved to the afternoon.",
+        "It was canceled forever.",
+        "It started early.",
+        "It was moved to the afternoon."
+      ]
+    ],
+    "track": "Essencial"
+  },
+  {
+    "title": "At the Grocery Store",
+    "passage": "Maya went to the grocery store after work. She needed milk, bread, and vegetables. At checkout, the cashier asked if she wanted a receipt. Maya said yes because she needed to track her expenses. She paid with her debit card.",
+    "questions": [
+      [
+        "Why did Maya want a receipt?",
+        "To track her expenses.",
+        "To return the milk immediately.",
+        "To track her expenses.",
+        "To call the cashier."
+      ],
+      [
+        "How did Maya pay?",
+        "With a debit card.",
+        "With cash.",
+        "With a debit card.",
+        "With a gift card."
+      ],
+      [
+        "When did Maya go shopping?",
+        "After work.",
+        "Before breakfast.",
+        "During a meeting.",
+        "After work."
+      ]
+    ],
+    "track": "Essencial"
+  },
+  {
+    "title": "A Doctor's Appointment",
+    "passage": "Daniel had an appointment at a clinic on Friday. The receptionist asked him to arrive fifteen minutes early and bring his insurance card. Daniel checked the bus schedule and left home earlier than usual. He arrived on time and filled out a form.",
+    "questions": [
+      [
+        "What did the receptionist ask Daniel to bring?",
+        "His insurance card.",
+        "A grocery receipt.",
+        "His insurance card.",
+        "A train ticket."
+      ],
+      [
+        "Why did Daniel leave home early?",
+        "To arrive on time.",
+        "To go shopping.",
+        "To meet his landlord.",
+        "To arrive on time."
+      ],
+      [
+        "What did Daniel do at the clinic?",
+        "He filled out a form.",
+        "He repaired a car.",
+        "He bought a phone.",
+        "He filled out a form."
+      ]
+    ],
+    "track": "Essencial"
+  },
+  {
+    "title": "Renting an Apartment",
+    "passage": "Sofia found an affordable apartment near her new job. The landlord explained that rent was due on the first day of each month. Utilities were not included. Sofia read the lease carefully before signing because she wanted to understand the rules and costs.",
+    "questions": [
+      [
+        "What was not included in the rent?",
+        "Utilities.",
+        "Parking tickets.",
+        "Utilities.",
+        "Groceries."
+      ],
+      [
+        "When was rent due?",
+        "On the first day of each month.",
+        "Every Friday.",
+        "On the last day of the year.",
+        "On the first day of each month."
+      ],
+      [
+        "Why did Sofia read the lease carefully?",
+        "To understand the rules and costs.",
+        "To learn a recipe.",
+        "To find a bus stop.",
+        "To understand the rules and costs."
+      ]
+    ],
+    "track": "Essencial"
+  },
+  {
+    "track": "Viagens",
+    "title": "A Delayed Flight",
+    "passage": "Olivia arrived at the airport two hours before departure. At the gate, an announcement said her flight was delayed because of heavy rain. She checked the airline app and learned that her connecting flight would leave before she arrived. The agent offered to book her on a later connection.",
+    "questions": [
+      [
+        "Why was the flight delayed?",
+        "Because of heavy rain.",
+        "Because of heavy rain.",
+        "Because of a missing passport.",
+        "Because the plane was full."
+      ],
+      [
+        "What problem did Olivia notice?",
+        "She might miss her connection.",
+        "She might miss her connection.",
+        "She forgot her hotel key.",
+        "She lost her suitcase."
+      ],
+      [
+        "What did the agent offer?",
+        "A later connecting flight.",
+        "A free car rental.",
+        "A later connecting flight.",
+        "A refund for her hotel."
+      ]
+    ]
+  },
+  {
+    "track": "Trabalho",
+    "title": "A Shift Change",
+    "passage": "Marcus works at a warehouse. His supervisor asked him to cover an earlier shift on Thursday because a coworker was sick. Marcus agreed, but he asked for the updated schedule in writing so he could arrange transportation. The supervisor sent him an email confirming the change.",
+    "questions": [
+      [
+        "Why was the shift changed?",
+        "A coworker was sick.",
+        "A coworker was sick.",
+        "The warehouse closed.",
+        "Marcus requested vacation."
+      ],
+      [
+        "Why did Marcus want written confirmation?",
+        "To plan transportation.",
+        "To plan transportation.",
+        "To ask for a raise.",
+        "To cancel a shipment."
+      ],
+      [
+        "What confirmed the new schedule?",
+        "An email from the supervisor.",
+        "A text from a customer.",
+        "An email from the supervisor.",
+        "A note from a driver."
+      ]
+    ]
+  },
+  {
+    "track": "Acadêmico",
+    "title": "The Research Assignment",
+    "passage": "Nina was preparing a research paper for her sociology class. Her professor required at least three reliable sources and warned students not to copy text without citation. Nina visited the library, compared several articles, and wrote a draft. Before submitting it, she checked that every quotation had a reference.",
+    "questions": [
+      [
+        "What was Nina preparing?",
+        "A research paper.",
+        "A job application.",
+        "A research paper.",
+        "A travel itinerary."
+      ],
+      [
+        "What did the professor require?",
+        "At least three reliable sources.",
+        "At least three reliable sources.",
+        "A five-minute video.",
+        "A laboratory experiment."
+      ],
+      [
+        "Why did Nina check her quotations?",
+        "To make sure they had citations.",
+        "To reduce the page count.",
+        "To make sure they had citations.",
+        "To change the topic."
+      ]
+    ]
+  },
+  {
+    "track": "Viagens",
+    "title": "Checking in at the Hotel",
+    "passage": "Olivia arrived at her hotel at 8 p.m. The receptionist explained that breakfast was included, but parking cost extra. Her room was on the fifth floor. Olivia asked for a quiet room because she had an early flight.",
+    "questions": [
+      [
+        "What did Olivia have to pay extra for?",
+        "Parking",
+        "Breakfast",
+        "Parking",
+        "Wi-Fi"
+      ],
+      [
+        "Why did Olivia request a quiet room?",
+        "She had an early flight.",
+        "She was studying for an exam.",
+        "She had an early flight.",
+        "She wanted a bigger bed."
+      ],
+      [
+        "Where was her room?",
+        "On the fifth floor.",
+        "On the first floor.",
+        "On the fifth floor.",
+        "Near the lobby."
+      ]
+    ]
+  },
+  {
+    "track": "Trabalho",
+    "title": "A New Employee",
+    "passage": "Marcus started a new job at a warehouse. His supervisor asked him to check incoming deliveries and report missing items. On Tuesday, he found that three boxes were missing. He wrote down the numbers and informed his supervisor before updating the inventory.",
+    "questions": [
+      [
+        "What was Marcus asked to check?",
+        "Incoming deliveries.",
+        "Customer reviews.",
+        "Incoming deliveries.",
+        "Bus schedules."
+      ],
+      [
+        "What problem did he find?",
+        "Three boxes were missing.",
+        "The building was closed.",
+        "Three boxes were missing.",
+        "His phone was broken."
+      ],
+      [
+        "Why did he inform his supervisor first?",
+        "To report the discrepancy before updating records.",
+        "To ask for a vacation.",
+        "To report the discrepancy before updating records.",
+        "To cancel the delivery."
+      ]
+    ]
+  },
+  {
+    "track": "Acadêmico",
+    "title": "Group Presentation",
+    "passage": "A class of university students was preparing a presentation about renewable energy. Elena researched solar power, Amir prepared the slides, and Grace checked their sources. The professor reminded them to include citations and submit the final file by Thursday.",
+    "questions": [
+      [
+        "What was the presentation about?",
+        "Renewable energy.",
+        "Ancient history.",
+        "Renewable energy.",
+        "Marine biology."
+      ],
+      [
+        "Who prepared the slides?",
+        "Amir.",
+        "Grace.",
+        "Elena.",
+        "Amir."
+      ],
+      [
+        "What was required by Thursday?",
+        "The final presentation file.",
+        "A laboratory sample.",
+        "The final presentation file.",
+        "A travel itinerary."
+      ]
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+android {
+ namespace 'com.englishup.app'
+ compileSdk 35
+ defaultConfig {
+  applicationId 'com.englishup.starsstripes'
+  minSdk 26
+  targetSdk 35
+  versionCode 9
+  versionName '5.4-design-real'
+ }
+ compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}

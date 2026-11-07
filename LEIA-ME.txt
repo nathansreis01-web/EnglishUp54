@@ -1,0 +1,1 @@
+EnglishUp Turbo Max — projeto Android nativo com 193 itens de estudo, 4 modulos e testes por nivel. Requer compilacao pelo GitHub Actions.
